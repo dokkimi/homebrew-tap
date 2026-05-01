@@ -1,8 +1,8 @@
 class Dokkimi < Formula
   desc "CLI for managing isolated Kubernetes sandboxes for microservice testing"
   homepage "https://dokkimi.com"
-  url "https://registry.npmjs.org/dokkimi/-/dokkimi-0.2.1.tgz"
-  sha256 "d6cc46232bf1230ca444e365e98664075a5d82f25ec97c404485738758272a44"
+  url "https://registry.npmjs.org/dokkimi/-/dokkimi-0.2.2.tgz"
+  sha256 "644a0941371ba0aa01366f817b040f7edcdb82ef8708d4c3da62f4d78a012653"
   license "Elastic-2.0"
 
   depends_on "node"
